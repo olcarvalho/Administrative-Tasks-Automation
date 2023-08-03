@@ -18,7 +18,7 @@
 		"mail_recipients": ["oscar@primeway.com.br"],
 		"mail_sender": "oscar@primeway.com.br",
 		"mail_password": "gAAAAABky5BBvHKSWR4v7q1ozndRR3ayWdczjyO1CjdKDe0ucJ-YlaGSD33zpBTdLROPLkUFIm9hSiwh5hWq-tXZ-0sUC-MWjTQoo1HEVnQ7f_C4PqSmaoE=",
-		"smtp_success": "Email enviado com sucesso!",
+		"smtp_success": "Email enviado com sucesso!...",
 		"nd_mail_subject": "Nota de Débito Mailchimp",
 		"nd_mail_body": "Olá Elaine,\\n\\nEm anexo a Nota de Débito do Mailchimp deste mês.\\n\\nOscar"
 	}
