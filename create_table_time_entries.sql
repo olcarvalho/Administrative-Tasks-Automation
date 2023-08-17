@@ -1,0 +1,15 @@
+CREATE TABLE time_entries (
+	"User" varchar(255),
+	"Email" varchar(255),
+	"Client" varchar(255),
+	"Project" varchar(255),
+	"Task" varchar(255),
+	"Description" varchar(255),
+	"Billable" CHAR (3),
+	"Start date" DATE, 
+	"Start time" TIME,																									
+	"End date" DATE, 
+	"End time" TIME,
+	"Duration" TIME,
+	"Tags" varchar(255),
+	"Amount" varchar(255));
