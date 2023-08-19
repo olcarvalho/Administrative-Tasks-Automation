@@ -7,3 +7,5 @@ Untitled1.txt
 chromedriver.exe
 .gitignore
 Monthly-Accounting-Params.json
+database.ini
+__pycache__/config.cpython-311.pyc
