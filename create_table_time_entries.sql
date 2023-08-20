@@ -12,4 +12,4 @@ CREATE TABLE time_entries (
 	"End time" TIME,
 	"Duration" TIME,
 	"Tags" varchar(255),
-	"Amount" varchar(255));
+	"Amount ()" varchar(255));
